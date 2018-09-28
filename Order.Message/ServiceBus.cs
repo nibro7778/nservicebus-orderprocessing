@@ -1,6 +1,6 @@
 ﻿namespace Order.Message
 {
-    public class OrderMessage
+    public class ServiceBus
     {
     }
 }

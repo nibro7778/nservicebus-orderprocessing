@@ -1,0 +1,9 @@
+C:\repos\orderprocessing-nservicebus\Order.Message\bin\Debug\Order.Message.dll
+C:\repos\orderprocessing-nservicebus\Order.Message\bin\Debug\Order.Message.pdb
+C:\repos\orderprocessing-nservicebus\Order.Message\bin\Debug\NServiceBus.Core.dll
+C:\repos\orderprocessing-nservicebus\Order.Message\bin\Debug\NServiceBus.Core.pdb
+C:\repos\orderprocessing-nservicebus\Order.Message\bin\Debug\NServiceBus.Core.xml
+C:\repos\orderprocessing-nservicebus\Order.Message\obj\Debug\Order.Message.csprojResolveAssemblyReference.cache
+C:\repos\orderprocessing-nservicebus\Order.Message\obj\Debug\Order.Message.csproj.CoreCompileInputs.cache
+C:\repos\orderprocessing-nservicebus\Order.Message\obj\Debug\Order.Message.dll
+C:\repos\orderprocessing-nservicebus\Order.Message\obj\Debug\Order.Message.pdb

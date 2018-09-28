@@ -1,0 +1,2 @@
+C:\repos\orderprocessing-nservicebus\Order.Handlers\obj\Debug\Order.Handlers.csprojResolveAssemblyReference.cache
+C:\repos\orderprocessing-nservicebus\Order.Handlers\obj\Debug\Order.Handlers.csproj.CoreCompileInputs.cache
